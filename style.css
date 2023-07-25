@@ -226,7 +226,7 @@ section .cards .card1 .icon h6 {
   justify-content: center;
   align-items: center;
   background: #40404c;
-  margin: 0 autoiptt;
+  margin: 0 auto;
   width: 460px;
   border-radius: 8px;
   height: 119px;
